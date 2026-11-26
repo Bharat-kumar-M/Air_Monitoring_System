@@ -12,7 +12,7 @@ The project aims to provide an affordable and easy-to-use solution for basic env
 
 ## Project Prototype
 
-![Air Quality Monitoring System Prototype](Images/prototype.jpg)
+![Air Quality Monitoring System Prototype](Prototype.jpeg)
 
 *Working prototype showing the MQ135 sensor, Arduino Uno, LCD display, and alert components.*
 
